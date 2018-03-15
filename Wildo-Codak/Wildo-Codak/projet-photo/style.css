@@ -1,0 +1,60 @@
+p{
+    text-align: justify;
+    text-justify: inter-word;
+}
+.my-nav{
+    position: absolute;
+    width: 100%;
+    z-index: 999;
+    background: none;
+    background-color: rgba(0, 0, 0, 0.5);
+    border: 0;
+    border-radius: 0;
+}
+
+.my-carousel{
+    background-attachment: fixed;
+}
+
+.my-nav .navbar-nav a{
+    color: white !important;
+}
+.navbar-brand {
+    color: white !important;
+}
+
+.my-nav:hover{
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.thumbnail.right-caption > img {
+    float: left;
+    margin-right: 9px;
+}
+
+.thumbnail.right-caption {
+    float: left;
+}
+
+.thumbnail.right-caption > .caption {
+    padding: 4px;
+}
+
+#footer{
+    background-color: darkgray;
+    padding: 10px;
+}
+
+.copyright{
+    text-align: right;
+}
+
+.txt_copyright{
+    text-align: right;
+}
+
+.btn_align{
+}
+/*network*/
+
+
