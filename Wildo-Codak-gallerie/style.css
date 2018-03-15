@@ -795,7 +795,77 @@ a:visited {
     }
 
     .img_portfolio20 {
-        max-width: 99%;
+        max-width: 98%;
+        height: auto;
+        margin: 4px;
+        display: block;
+    }
+
+    .img_portfolio21 {
+        max-width: 98%;
+        height: auto;
+        margin: 4px;
+        display: block;
+    }
+
+    .img_portfolio22 {
+        max-width: 98%;
+        height: auto;
+        margin: 4px;
+        display: block;
+    }
+
+    .img_portfolio23 {
+        max-width: 98%;
+        height: auto;
+        margin: 4px;
+        display: block;
+    }
+
+    .img_portfolio24 {
+        max-width: 98%;
+        height: auto;
+        margin: 4px;
+        display: block;
+    }
+
+    .img_portfolio25 {
+        max-width: 98%;
+        height: auto;
+        margin: 4px;
+        display: block;
+    }
+
+    .img_portfolio26 {
+        max-width: 98%;
+        height: auto;
+        margin: 4px;
+        display: block;
+    }
+
+    .img_portfolio27 {
+        max-width: 98%;
+        height: auto;
+        margin: 4px;
+        display: block;
+    }
+
+.img_portfolio28 {
+        max-width: 98%;
+        height: auto;
+        margin: 4px;
+        display: block;
+    }
+
+.img_portfolio29 {
+        max-width: 98%;
+        height: auto;
+        margin: 4px;
+        display: block;
+    }
+
+.img_portfolio30 {
+        max-width: 98%;
         height: auto;
         margin: 4px;
         display: block;
@@ -986,13 +1056,67 @@ a:visited {
 
     .img_portfolio20 {
         width: auto;
-        height: 522px;
+        height: 232px;
         margin: 4px;
     }
 
     .img_portfolio21 {
         width: auto;
-        height: 522px;
+        height: 232px;
+        margin: 4px;
+    }
+
+    .img_portfolio22 {
+        width: auto;
+        height: 243px;
+        margin: 4px;
+    }
+
+    .img_portfolio23 {
+        width: auto;
+        height: 243px;
+        margin: 4px;
+    }
+
+    .img_portfolio24 {
+        width: auto;
+        height: 243px;
+        margin: 4px;
+    }
+
+    .img_portfolio25 {
+        width: auto;
+        height: 190px;
+        margin: 4px;
+    }
+
+    .img_portfolio26 {
+        width: auto;
+        height: 187px;
+        margin: 4px;
+    }
+
+    .img_portfolio27 {
+        width: auto;
+        height: 187px;
+        margin: 4px;
+    }
+
+    .img_portfolio28 {
+        width: auto;
+        height: 244px;
+        margin: 4px;
+    }
+
+    .img_portfolio29 {
+        width: auto;
+        height: 243px;
+        margin: 4px;
+    }
+
+    .img_portfolio30 {
+        width: auto;
+        height: 244px;
         margin: 4px;
     }
 
@@ -1184,6 +1308,71 @@ a:visited {
         margin: 4px;
     }
 
+
+    .img_portfolio20 {
+        width: auto;
+        height: 247px;
+        margin: 4px;
+    }
+
+    .img_portfolio21 {
+        width: auto;
+        height:247px;
+        margin: 4px;
+    }
+
+    .img_portfolio22 {
+        width: auto;
+        height: 247px;
+        margin: 4px;
+    }
+
+    .img_portfolio23 {
+        width: auto;
+        height: 321px;
+        margin: 4px;
+    }
+
+    .img_portfolio24 {
+        width: auto;
+        height: 321px;
+        margin: 4px;
+    }
+
+    .img_portfolio25 {
+        width: auto;
+        height: 321px;
+        margin: 4px;
+    }
+
+    .img_portfolio26 {
+        width: auto;
+        height: 305px;
+        margin: 4px;
+    }
+
+.img_portfolio27 {
+        width: auto;
+        height: 305px;
+        margin: 4px;
+    }
+
+.img_portfolio28 {
+        width: auto;
+        height: 321px;
+        margin: 4px;
+    }
+.img_portfolio29 {
+        width: auto;
+        height: 321px;
+        margin: 4px;
+    }
+
+.img_portfolio30 {
+        width: auto;
+        height: 321px;
+        margin: 4px;
+    }
     /*event*/
     /*event*/
     /*press*/
@@ -1361,9 +1550,68 @@ a:visited {
         margin: 4px;
     }
 
-    .img_portfolio20 {
+     .img_portfolio20 {
         width: auto;
-        height: 522px;
+        height: 301px;
+        margin: 4px;
+    }
+
+    .img_portfolio21 {
+        width: auto;
+        height:301px;
+        margin: 4px;
+    }
+
+    .img_portfolio22 {
+        width: auto;
+        height: 303px;
+        margin: 4px;
+    }
+
+    .img_portfolio23 {
+        width: auto;
+        height: 391px;
+        margin: 4px;
+    }
+
+    .img_portfolio24 {
+        width: auto;
+        height: 391px;
+        margin: 4px;
+    }
+
+    .img_portfolio25 {
+        width: auto;
+        height: 391px;
+        margin: 4px;
+    }
+
+    .img_portfolio26 {
+        width: auto;
+        height: 371px;
+        margin: 4px;
+    }
+
+    .img_portfolio27 {
+        width: auto;
+        height: 371px;
+        margin: 4px;
+    }
+
+    .img_portfolio28 {
+        width: auto;
+        height: 391px;
+        margin: 4px;
+    }
+    .img_portfolio29 {
+        width: auto;
+        height: 391px;
+        margin: 4px;
+    }
+
+    .img_portfolio30 {
+        width: auto;
+        height: 391px;
         margin: 4px;
     }
 
